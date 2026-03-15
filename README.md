@@ -86,12 +86,24 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you're having issues getting the above steps to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
-# Learn More
+# Project Snapshots
 
-To learn more about React Native, take a look at the following resources:
+## Home Screen
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![alt text](image.png)
+
+## Like Screen
+
+![alt text](image-1.png)
+
+## Chats Screen
+
+![alt text](image-2.png)
+
+## Message Screen
+
+![alt text](image-3.png)
+
+## Profile Screen
+
+![alt text](image-4.png)
